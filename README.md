@@ -19,5 +19,3 @@ I'm Anna Thomas, a passionate and enthusiastic Software Engineering student 💻
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anntomz08&show_icons=true&theme=radical" alt="anntomz08"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anntomz08&theme=radical" alt="anntomz08"/></p>
 
-- Credits: Anna Thomas
-- Last edited on: 28/12/2021
